@@ -14,6 +14,11 @@
 			"title" => "My Amazing Product 3",
 			"price" => 1,
 			"features" => array("feature 1", "feature 2", "feature 3")
+		),
+		"product4" => array(
+			"title" => "My Amazing Product 4",
+			"price" => 1,
+			"features" => array("feature 1", "feature 2", "feature 3")
 		)
 	);
 ?>
